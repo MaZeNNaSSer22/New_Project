@@ -1,1 +1,1 @@
-[Screenshot]('Screenshot (1078).png')
+![Screenshot](./Screenshot.png)
